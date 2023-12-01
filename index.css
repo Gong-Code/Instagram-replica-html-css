@@ -2,7 +2,8 @@ html, body {
     padding: 0;
     font-family: 'source sans pro', sans-serif;
     width: 520px;
-    margin: 0 auto;
+    margin: 20px auto;
+   
 }
 
 .logo-and-user{
