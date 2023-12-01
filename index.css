@@ -23,10 +23,6 @@ html, body {
     border-radius: 50%;
 }
 
-header {
-    display: flex;
-}
-
 .post .header {
     display: flex;
     justify-content: start;
@@ -89,7 +85,6 @@ header {
     margin-left: 10px;
 }
 
-.comment{
-    font-size: 13px;    
+.comment{  
     font-weight: 400;
 }
